@@ -1,4 +1,4 @@
-# Add your code here
+# say hello to user
 def say_hello(name)
   "Hi #{name}!"
 end
